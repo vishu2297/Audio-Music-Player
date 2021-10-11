@@ -9,6 +9,7 @@ This is a full stack React-Express audio music player.
 npm install
 cd client
 npm install
+cd..
 
 ## Server on localhost:3000
 npm run dev
