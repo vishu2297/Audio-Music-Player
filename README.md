@@ -13,6 +13,6 @@ npm install
 # Go outside from the client folder
 cd..
 
-## Server on localhost:3000
+# Server on localhost:3000
 npm run dev
 ```
