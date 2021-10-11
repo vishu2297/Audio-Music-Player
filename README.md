@@ -2,12 +2,14 @@
  
 This is a full stack React-Express audio music player.
 
-# Quick Start
+## Quick Start
 
-#### #Install dependencies server/client
+```bash
+# Install dependencies server/client
 npm install
 cd client
 npm install
 
-#### #Serve on localhost:3000
+# Serve on localhost:3000
 npm run dev
+```
