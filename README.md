@@ -5,7 +5,7 @@ This is a full stack React-Express audio music player.
 ## Steps to run the project
 
 ```bash
-# 1. To Install dependencies server/client
+-- 1. To Install dependencies server/client
 npm install
 cd client
 npm install
